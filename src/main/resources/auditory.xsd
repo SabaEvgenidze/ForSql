@@ -1,0 +1,17 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Auditory">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Auditory" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:int" name="capacity"/>
+                            <xs:element type="xs:long" name="idUniversity"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:long" name="idAuditory" use="optional"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

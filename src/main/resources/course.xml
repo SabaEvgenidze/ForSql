@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Course>
+    <Course idCourse="1">
+        <Name>Computer Science</Name>
+        <Course>1</Course>
+    </Course>
+    <Course idCourse="2">
+        <Name>Math</Name>
+        <Course>2</Course>
+    </Course>
+    <Course idCourse="3">
+        <Name>Physic</Name>
+        <Course>3</Course>
+    </Course>
+</Course>

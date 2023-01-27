@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Auditory>
+    <Auditory idAuditory="1">
+        <capacity>100</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+    <Auditory idAuditory="2">
+        <capacity>50</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+    <Auditory idAuditory="3">
+        <capacity>30</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+    <Auditory idAuditory="4">
+        <capacity>40</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+    <Auditory idAuditory="5">
+        <capacity>60</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+    <Auditory idAuditory="6">
+        <capacity>70</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+    <Auditory idAuditory="7">
+        <capacity>60</capacity>
+        <idUniversity>1</idUniversity>
+    </Auditory>
+</Auditory>
