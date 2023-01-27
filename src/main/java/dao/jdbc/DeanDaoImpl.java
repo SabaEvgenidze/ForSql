@@ -85,11 +85,55 @@ public class DeanDaoImpl implements IDeanDao {
 
     @Override
     public void deleteEntity(Dean entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idDean=?";
+        PreparedStatement preparedStatement = null;
+
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdDean());
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
 
     }
 
     @Override
     public void updateEntity(Dean entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idDean=?, idMentor=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdDean());
+            preparedStatement.setLong(2, entity.getIdMentor());
+
+            preparedStatement.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 }

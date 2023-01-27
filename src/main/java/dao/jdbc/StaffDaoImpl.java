@@ -88,11 +88,54 @@ public class StaffDaoImpl implements IStaffDao {
 
     @Override
     public void deleteEntity(Staff entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idStaff=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdStaff());
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 
     @Override
     public void updateEntity(Staff entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idStaff=?, idUniversity=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(2, entity.getIdStaff());
+            preparedStatement.setLong(1, entity.getIdUniversity());
+
+            preparedStatement.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 }

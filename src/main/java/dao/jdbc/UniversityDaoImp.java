@@ -110,6 +110,8 @@ public class UniversityDaoImp implements IUniversityDao {
         try {
             preparedStatement = connection.prepareStatement(sql);
             preparedStatement.setLong(1, entity.getIdUniversity());
+
+            preparedStatement.executeUpdate();
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

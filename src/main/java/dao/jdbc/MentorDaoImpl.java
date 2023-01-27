@@ -87,11 +87,54 @@ public class MentorDaoImpl implements IMentorDao {
 
     @Override
     public void deleteEntity(Mentor entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idMentor=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdMentor());
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 
     @Override
     public void updateEntity(Mentor entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idMentor=?, idUniversity=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(2, entity.getIdMentor());
+            preparedStatement.setLong(1, entity.getIdUniversity());
+
+            preparedStatement.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 }

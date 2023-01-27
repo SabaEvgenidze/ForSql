@@ -12,11 +12,11 @@ import java.sql.SQLException;
 
 public class OweDaoImpl implements IOweDao {
     private static final Logger LOGGER = Logger.getLogger(OweDaoImpl.class);
-    ConnectionPool connectionPoll = ConnectionPool.getInstance();
+    ConnectionPool connectionPool = ConnectionPool.getInstance();
 
     @Override
     public void insertEntity(Owe entity) throws SQLException {
-        Connection connection = connectionPoll.retrieve();
+        Connection connection = connectionPool.retrieve();
         PreparedStatement preparedStatement = null;
         String sql = "INSERT INTO Owe(idOwe, idStudent, amountOfOwe) VALUES(?,?,?)";
 
@@ -39,14 +39,14 @@ public class OweDaoImpl implements IOweDao {
                 e.printStackTrace();
             }
             if (connection != null) {
-                connectionPoll.putBack(connection);
+                connectionPool.putBack(connection);
             }
         }
     }
 
     @Override
     public Owe selectEntityById(Long id) throws SQLException {
-        Connection connection = connectionPoll.retrieve();
+        Connection connection = connectionPool.retrieve();
         PreparedStatement preparedStatement = null;
         String sql = "SELECT * FROM owe WHERE id=?";
         Owe owe = new Owe();
@@ -72,7 +72,7 @@ public class OweDaoImpl implements IOweDao {
                 LOGGER.error("Statement cannot close", e);
             }
             if (connection != null) {
-                connectionPoll.putBack(connection);
+                connectionPool.putBack(connection);
             }
         }
 
@@ -81,11 +81,54 @@ public class OweDaoImpl implements IOweDao {
 
     @Override
     public void deleteEntity(Owe entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idOwe=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdOwe());
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 
     @Override
     public void updateEntity(Owe entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        String sql = "DELETE FROM course WHERE idOwe=?, idStudent=?";
+        PreparedStatement preparedStatement = null;
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(2, entity.getIdOwe());
+            preparedStatement.setLong(1, entity.getIdStudent());
+
+            preparedStatement.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 }

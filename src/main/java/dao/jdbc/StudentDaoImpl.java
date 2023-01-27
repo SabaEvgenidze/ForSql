@@ -12,12 +12,12 @@ import java.sql.SQLException;
 
 public class StudentDaoImpl implements IStudentDao {
     private static final Logger LOGGER = Logger.getLogger(StudentDaoImpl.class);
-    ConnectionPool connectionPoll = ConnectionPool.getInstance();
+    ConnectionPool connectionPool = ConnectionPool.getInstance();
 
 
     @Override
     public void insertEntity(Student entity) throws SQLException {
-        Connection connection = connectionPoll.retrieve();
+        Connection connection = connectionPool.retrieve();
         String sql = "INSERT INTO Student(idStudent, idUniversity, idFaculty, name, surname, gender, age) VALUES(?,?,?,?,?,?,?)";
         PreparedStatement preparedStatement = null;
 
@@ -47,7 +47,7 @@ public class StudentDaoImpl implements IStudentDao {
 
     @Override
     public Student selectEntityById(Long id) throws SQLException {
-        Connection connection = connectionPoll.retrieve();
+        Connection connection = connectionPool.retrieve();
         PreparedStatement preparedStatement = null;
         String sql = "SELECT * FROM student WHERE id=?";
         Student student = new Student();
@@ -79,7 +79,7 @@ public class StudentDaoImpl implements IStudentDao {
                 LOGGER.error("statement cannot close");
             }
             if (connection != null) {
-                connectionPoll.putBack(connection);
+                connectionPool.putBack(connection);
             }
         }
 
@@ -88,7 +88,7 @@ public class StudentDaoImpl implements IStudentDao {
 
     @Override
     public void deleteEntity(Student entity) throws SQLException {
-        Connection connection = connectionPoll.retrieve();
+        Connection connection = connectionPool.retrieve();
         PreparedStatement preparedStatement = null;
         String sql = "DELETE FROM student where id=?";
 
@@ -106,14 +106,14 @@ public class StudentDaoImpl implements IStudentDao {
                 LOGGER.error("Statement cannot close", e);
             }
             if (connection != null) {
-                connectionPoll.putBack(connection);
+                connectionPool.putBack(connection);
             }
         }
     }
 
     @Override
     public void updateEntity(Student entity) throws SQLException {
-        Connection connection = connectionPoll.retrieve();
+        Connection connection = connectionPool.retrieve();
         String sql = "UPDATE student SET  idStudent=?, idUniversity=?, idFaculty=?";
         PreparedStatement preparedStatement = null;
 
@@ -136,7 +136,7 @@ public class StudentDaoImpl implements IStudentDao {
                 LOGGER.error("Statement cannot close", e);
             }
             if (connection != null) {
-                connectionPoll.putBack(connection);
+                connectionPool.putBack(connection);
             }
         }
     }
