@@ -78,10 +78,51 @@ public class UniversityDaoImp implements IUniversityDao {
     }
 
     public void deleteEntity(University entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        PreparedStatement preparedStatement = null;
+        String sql = "DELETE FROM University WHERE idUniversity=? ";
+
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdUniversity());
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
 
     }
 
     public void updateEntity(University entity) throws SQLException {
+        Connection connection = connectionPool.retrieve();
+        PreparedStatement preparedStatement = null;
+        String sql = "UPDATE university SET idUniversity = ?";
 
+        try {
+            preparedStatement = connection.prepareStatement(sql);
+            preparedStatement.setLong(1, entity.getIdUniversity());
+        } catch (SQLException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (preparedStatement != null) {
+                    preparedStatement.close();
+                }
+            } catch (SQLException e) {
+                LOGGER.error("Statement cannot close", e);
+            }
+            if (connection != null) {
+                connectionPool.putBack(connection);
+            }
+        }
     }
 }
