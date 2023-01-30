@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <age>22</age>
+    <gender>Male</gender>
+    <idFaculty>3</idFaculty>
+    <idStudent>1</idStudent>
+    <idUniversity>2</idUniversity>
+    <name>Saba</name>
+    <surname>Evgenidze</surname>
+</student>

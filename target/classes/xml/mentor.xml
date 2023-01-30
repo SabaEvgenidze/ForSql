@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mentor>
+    <Mentor idMentor="1">
+        <Name>Meri</Name>
+        <Surname>Evgenidze</Surname>
+        <Age>30</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <idDean>1</idDean>
+    </Mentor>
+    <Mentor idMentor="2">
+        <Name>Vaxtang</Name>
+        <Surname>Beridze</Surname>
+        <Age>40</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <idDean>1</idDean>
+    </Mentor>
+    <Mentor idMentor="3">
+        <Name>Mikle</Name>
+        <Surname>jakson</Surname>
+        <Age>56</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <idDean>1</idDean>
+    </Mentor>
+    <Mentor idMentor="4">
+        <Name>Nica</Name>
+        <Surname>Dadiani</Surname>
+        <Age>25</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <idDean>1</idDean>
+    </Mentor>
+    <Mentor idMentor="5">
+        <Name>George</Name>
+        <Surname>Beridze</Surname>
+        <Age>60</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <idDean>1</idDean>
+    </Mentor>
+    <Mentor idMentor="6">
+        <Name>Sofo</Name>
+        <Surname>Sukonnikova</Surname>
+        <Age>27</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <idDean>1</idDean>
+    </Mentor>
+</Mentor>
+

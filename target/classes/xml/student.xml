@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <Student idStundent="1">
+        <Name value="SAma">Sam</Name>
+        <Surname>Smith</Surname>
+        <Age>22</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="2">
+        <Name>Lena</Name>
+        <Surname>Smith</Surname>
+        <Age>20</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="3">
+        <Name>Katy</Name>
+        <Surname>Travolta</Surname>
+        <Age>19</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="4">
+        <Name>Elene</Name>
+        <Surname>Tavberidze</Surname>
+        <Age>21</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="5">
+        <Name>Saba</Name>
+        <Surname>Evgenidze</Surname>
+        <Age>22</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="6">
+        <Name>John</Name>
+        <Surname>Travolta</Surname>
+        <Age>20</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="7">
+        <Name>Nica</Name>
+        <Surname>Dadiani</Surname>
+        <Age>21</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="8">
+        <Name>John</Name>
+        <Surname>Dadiani</Surname>
+        <Age>20</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="9">
+        <Name>George</Name>
+        <Surname>beridze</Surname>
+        <Age>21</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="10">
+        <Name>Nini</Name>
+        <Surname>Tavberidze</Surname>
+        <Age>24</Age>
+        <Gender>female</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+    <Student idStundent="11">
+        <Name>Archil</Name>
+        <Surname>Kaxidze</Surname>
+        <Age>22</Age>
+        <Gender>male</Gender>
+        <idUniversity>1</idUniversity>
+        <Faculty_idFaculty>1</Faculty_idFaculty>
+    </Student>
+</Student>

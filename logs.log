@@ -1,0 +1,1309 @@
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:43 -    Auditory: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId1
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId2
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId3
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId4
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId5
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId6
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:27:50 INFO  Main:36 - AuditoryId7
+2023-01-28 16:27:50 INFO  Main:43 -    capacity: 
+2023-01-28 16:27:50 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:43 -    Auditory: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId1
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId2
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId3
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId4
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId5
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId6
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:29:03 INFO  Main:36 - AuditoryId7
+2023-01-28 16:29:03 INFO  Main:43 -    capacity: 
+2023-01-28 16:29:03 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:43 -    Student: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:32:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:32:00 INFO  Main:43 -    Name: 
+2023-01-28 16:32:00 INFO  Main:43 -    Surname: 
+2023-01-28 16:32:00 INFO  Main:43 -    Age: 
+2023-01-28 16:32:00 INFO  Main:43 -    Gender: 
+2023-01-28 16:32:00 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:32:00 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:43 -    Student: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:33 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:33 INFO  Main:43 -    Name: 
+2023-01-28 16:34:33 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:33 INFO  Main:43 -    Age: 
+2023-01-28 16:34:33 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:33 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:33 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:43 -    Student: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: SAma
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:34:59 INFO  Main:36 - Student Id: 
+2023-01-28 16:34:59 INFO  Main:43 -    Name: 
+2023-01-28 16:34:59 INFO  Main:43 -    Surname: 
+2023-01-28 16:34:59 INFO  Main:43 -    Age: 
+2023-01-28 16:34:59 INFO  Main:43 -    Gender: 
+2023-01-28 16:34:59 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:34:59 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:43 -    Student: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:40:14 INFO  Main:36 - Student Id: 
+2023-01-28 16:40:14 INFO  Main:43 -    Name: 
+2023-01-28 16:40:14 INFO  Main:43 -    Surname: 
+2023-01-28 16:40:14 INFO  Main:43 -    Age: 
+2023-01-28 16:40:14 INFO  Main:43 -    Gender: 
+2023-01-28 16:40:14 INFO  Main:43 -    idUniversity: 
+2023-01-28 16:40:14 INFO  Main:43 -    Faculty_idFaculty: 
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@62043840
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6fb554cc
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@614c5515
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@77b52d12
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d554825
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@68837a77
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6be46e8f
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3567135c
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@327471b5
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4157f54e
+2023-01-28 16:42:47 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@90f6bfd
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@47f6473
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@15975490
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6b143ee9
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1936f0f5
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6615435c
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4909b8da
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3a03464
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d3fcdbd
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@617c74e5
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6537cf78
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@67b6d4ae
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@34b7bfc0
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@366e2eef
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6df97b55
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3cbbc1e0
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@35fb3008
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7225790e
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@54a097cc
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@36f6e879
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5a61f5df
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3551a94
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@531be3c5
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@52af6cff
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@735b478
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2c9f9fb0
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2096442d
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@9f70c54
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@234bef66
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@737996a0
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@61dc03ce
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@50f8360d
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2cb4c3ab
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13c78c0b
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@12843fce
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3dd3bcd
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@97e1986
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@26f67b76
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@153f5a29
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7f560810
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@69d9c55
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13a57a3b
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7ca48474
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@337d0578
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@59e84876
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6276ae34
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7946e1f4
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c09711b
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5cc7c2a6
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@b97c004
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4590c9c3
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@32e6e9c3
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5056dfcb
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6574b225
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2669b199
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2344fc66
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@458ad742
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5afa04c
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6ea12c19
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a024a67
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7921b0a2
+2023-01-28 16:42:47 INFO  Main:36 - Student Id: 
+2023-01-28 16:42:47 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@174d20a
+2023-01-28 16:42:47 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@66d2e7d9
+2023-01-28 16:42:47 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1efbd816
+2023-01-28 16:42:47 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a2bcfcb
+2023-01-28 16:42:47 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4de8b406
+2023-01-28 16:42:47 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c756e4d
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@62043840
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6fb554cc
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@614c5515
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@77b52d12
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d554825
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@68837a77
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6be46e8f
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3567135c
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@327471b5
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4157f54e
+2023-01-28 16:45:43 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@90f6bfd
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@47f6473
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@15975490
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6b143ee9
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1936f0f5
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6615435c
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4909b8da
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3a03464
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d3fcdbd
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@617c74e5
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6537cf78
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@67b6d4ae
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@34b7bfc0
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@366e2eef
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6df97b55
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3cbbc1e0
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@35fb3008
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7225790e
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@54a097cc
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@36f6e879
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5a61f5df
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3551a94
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@531be3c5
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@52af6cff
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@735b478
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2c9f9fb0
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2096442d
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@9f70c54
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@234bef66
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@737996a0
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@61dc03ce
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@50f8360d
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2cb4c3ab
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13c78c0b
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@12843fce
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3dd3bcd
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@97e1986
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@26f67b76
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@153f5a29
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7f560810
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@69d9c55
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13a57a3b
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7ca48474
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@337d0578
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@59e84876
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6276ae34
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7946e1f4
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c09711b
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5cc7c2a6
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@b97c004
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4590c9c3
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@32e6e9c3
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5056dfcb
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6574b225
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2669b199
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2344fc66
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@458ad742
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5afa04c
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6ea12c19
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a024a67
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7921b0a2
+2023-01-28 16:45:43 INFO  Main:36 - Student Id: 
+2023-01-28 16:45:43 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@174d20a
+2023-01-28 16:45:43 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@66d2e7d9
+2023-01-28 16:45:43 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1efbd816
+2023-01-28 16:45:43 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a2bcfcb
+2023-01-28 16:45:43 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4de8b406
+2023-01-28 16:45:43 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c756e4d
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@62043840
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6fb554cc
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@614c5515
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@77b52d12
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d554825
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@68837a77
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6be46e8f
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3567135c
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@327471b5
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4157f54e
+2023-01-28 16:51:00 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@90f6bfd
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@47f6473
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@15975490
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6b143ee9
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1936f0f5
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6615435c
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4909b8da
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3a03464
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d3fcdbd
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@617c74e5
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6537cf78
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@67b6d4ae
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@34b7bfc0
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@366e2eef
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6df97b55
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3cbbc1e0
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@35fb3008
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7225790e
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@54a097cc
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@36f6e879
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5a61f5df
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3551a94
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@531be3c5
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@52af6cff
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@735b478
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2c9f9fb0
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2096442d
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@9f70c54
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@234bef66
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@737996a0
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@61dc03ce
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@50f8360d
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2cb4c3ab
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13c78c0b
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@12843fce
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3dd3bcd
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@97e1986
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@26f67b76
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@153f5a29
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7f560810
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@69d9c55
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13a57a3b
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7ca48474
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@337d0578
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@59e84876
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6276ae34
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7946e1f4
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c09711b
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5cc7c2a6
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@b97c004
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4590c9c3
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@32e6e9c3
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5056dfcb
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6574b225
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2669b199
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2344fc66
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@458ad742
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5afa04c
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6ea12c19
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a024a67
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7921b0a2
+2023-01-28 16:51:00 INFO  Main:36 - Student Id: 
+2023-01-28 16:51:00 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@174d20a
+2023-01-28 16:51:00 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@66d2e7d9
+2023-01-28 16:51:00 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1efbd816
+2023-01-28 16:51:00 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a2bcfcb
+2023-01-28 16:51:00 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4de8b406
+2023-01-28 16:51:00 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c756e4d
+2023-01-28 16:52:56 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:56 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@62043840
+2023-01-28 16:52:56 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6fb554cc
+2023-01-28 16:52:56 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@614c5515
+2023-01-28 16:52:56 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@77b52d12
+2023-01-28 16:52:56 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d554825
+2023-01-28 16:52:56 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@68837a77
+2023-01-28 16:52:57 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6be46e8f
+2023-01-28 16:52:57 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3567135c
+2023-01-28 16:52:57 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@327471b5
+2023-01-28 16:52:57 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4157f54e
+2023-01-28 16:52:57 INFO  Main:43 -    Student: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@90f6bfd
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@47f6473
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@15975490
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6b143ee9
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1936f0f5
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6615435c
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4909b8da
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3a03464
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2d3fcdbd
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@617c74e5
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6537cf78
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@67b6d4ae
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@34b7bfc0
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@366e2eef
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6df97b55
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3cbbc1e0
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@35fb3008
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7225790e
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@54a097cc
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@36f6e879
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5a61f5df
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3551a94
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@531be3c5
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@52af6cff
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@735b478
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2c9f9fb0
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2096442d
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@9f70c54
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@234bef66
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@737996a0
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@61dc03ce
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@50f8360d
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2cb4c3ab
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13c78c0b
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@12843fce
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3dd3bcd
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@97e1986
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@26f67b76
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@153f5a29
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7f560810
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@69d9c55
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@13a57a3b
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7ca48474
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@337d0578
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@59e84876
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6276ae34
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7946e1f4
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c09711b
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5cc7c2a6
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@b97c004
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4590c9c3
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@32e6e9c3
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5056dfcb
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6574b225
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2669b199
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@2344fc66
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@458ad742
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@5afa04c
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6ea12c19
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a024a67
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@7921b0a2
+2023-01-28 16:52:57 INFO  Main:36 - Student Id: 
+2023-01-28 16:52:57 INFO  Main:43 -    Name: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@174d20a
+2023-01-28 16:52:57 INFO  Main:43 -    Surname: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@66d2e7d9
+2023-01-28 16:52:57 INFO  Main:43 -    Age: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@1efbd816
+2023-01-28 16:52:57 INFO  Main:43 -    Gender: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@6a2bcfcb
+2023-01-28 16:52:57 INFO  Main:43 -    idUniversity: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@4de8b406
+2023-01-28 16:52:57 INFO  Main:43 -    Faculty_idFaculty: com.sun.org.apache.xerces.internal.dom.DeepNodeListImpl@3c756e4d
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:42 -    Student: Student
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:54:27 INFO  Main:35 - Student Id: 
+2023-01-28 16:54:27 INFO  Main:42 -    Name: Name
+2023-01-28 16:54:27 INFO  Main:42 -    Surname: Surname
+2023-01-28 16:54:27 INFO  Main:42 -    Age: Age
+2023-01-28 16:54:27 INFO  Main:42 -    Gender: Gender
+2023-01-28 16:54:27 INFO  Main:42 -    idUniversity: idUniversity
+2023-01-28 16:54:27 INFO  Main:42 -    Faculty_idFaculty: Faculty_idFaculty
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:42 -    Student: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:55:10 INFO  Main:35 - Student Id: 
+2023-01-28 16:55:10 INFO  Main:42 -    Name: null
+2023-01-28 16:55:10 INFO  Main:42 -    Surname: null
+2023-01-28 16:55:10 INFO  Main:42 -    Age: null
+2023-01-28 16:55:10 INFO  Main:42 -    Gender: null
+2023-01-28 16:55:10 INFO  Main:42 -    idUniversity: null
+2023-01-28 16:55:10 INFO  Main:42 -    Faculty_idFaculty: null
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:03 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:03 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:03 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:03 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Student: [Student: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-28 16:56:12 INFO  Main:35 - Student Id: 
+2023-01-28 16:56:12 INFO  Main:42 -    Name: [Name: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Surname: [Surname: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Age: [Age: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Gender: [Gender: null]
+2023-01-28 16:56:12 INFO  Main:42 -    idUniversity: [idUniversity: null]
+2023-01-28 16:56:12 INFO  Main:42 -    Faculty_idFaculty: [Faculty_idFaculty: null]
+2023-01-30 15:23:07 ERROR MentorJAXB:28 - javax.xml.bind.MarshalException
+ - with linked exception:
+[com.sun.istack.SAXException2: unable to marshal type "models.Mentor" as an element because it is missing an @XmlRootElement annotation]
+2023-01-30 15:23:07 ERROR MentorJAXB:44 - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2023-01-30 15:23:29 ERROR MentorJAXB:44 - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2023-01-30 15:24:36 ERROR MentorJAXB:44 - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2023-01-30 15:24:36 ERROR MentorJAXB:28 - javax.xml.bind.MarshalException
+ - with linked exception:
+[com.sun.istack.SAXException2: unable to marshal type "models.Mentor" as an element because it is missing an @XmlRootElement annotation]
+2023-01-30 15:25:59 ERROR MentorJAXB:44 - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.]
+2023-01-30 15:25:59 ERROR MentorJAXB:28 - javax.xml.bind.MarshalException
+ - with linked exception:
+[com.sun.istack.SAXException2: unable to marshal type "models.Mentor" as an element because it is missing an @XmlRootElement annotation]
+2023-01-30 15:40:07 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 15:40:07 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 15:40:07 INFO  MentorJAXB:41 - Name: George
+2023-01-30 15:40:07 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 15:40:07 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 15:40:07 INFO  MentorJAXB:44 - Gendermale
+2023-01-30 15:58:04 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 15:58:04 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 15:58:04 INFO  MentorJAXB:41 - Name: George
+2023-01-30 15:58:04 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 15:58:04 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 15:58:04 INFO  MentorJAXB:44 - Gendermale
+2023-01-30 15:58:04 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 15:58:04 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 15:58:04 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 15:58:04 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 15:58:04 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 15:58:04 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 15:58:04 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 15:58:04 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 15:58:34 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 15:58:34 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 15:58:34 INFO  MentorJAXB:41 - Name: George
+2023-01-30 15:58:34 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 15:58:34 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 15:58:34 INFO  MentorJAXB:44 - Gendermale
+2023-01-30 15:58:34 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 15:58:34 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 15:58:34 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 15:58:34 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 15:58:34 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 15:58:34 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 15:58:34 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 15:58:34 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:12:30 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 16:12:30 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 16:12:30 INFO  MentorJAXB:41 - Name: George
+2023-01-30 16:12:30 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 16:12:30 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 16:12:30 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 16:12:30 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 16:12:30 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 16:12:30 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 16:12:30 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 16:12:30 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 16:12:30 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 16:12:30 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 16:12:30 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:12:30 INFO  Main:28 - ----------------------------
+2023-01-30 16:12:30 INFO  Main:31 - ----------------------------
+2023-01-30 16:12:30 INFO  Main:33 - ----------------------------
+2023-01-30 16:12:30 INFO  Main:36 - ----------------------------
+2023-01-30 16:12:30 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 16:12:30 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 16:12:30 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 16:12:30 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 16:12:30 INFO  Main:38 - End
+2023-01-30 16:13:38 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 16:13:38 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 16:13:38 INFO  MentorJAXB:41 - Name: George
+2023-01-30 16:13:38 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 16:13:38 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 16:13:38 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 16:13:38 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 16:13:38 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 16:13:38 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 16:13:38 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 16:13:38 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 16:13:38 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 16:13:38 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 16:13:38 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:13:38 INFO  Main:28 - ----------------------------
+2023-01-30 16:13:38 INFO  Main:36 - ----------------------------
+2023-01-30 16:13:38 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 16:13:38 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 16:13:38 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 16:13:38 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 16:13:38 INFO  Main:38 - End
+2023-01-30 16:14:38 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 16:14:38 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 16:14:38 INFO  MentorJAXB:41 - Name: George
+2023-01-30 16:14:38 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 16:14:38 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 16:14:38 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 16:14:38 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 16:14:38 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 16:14:38 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 16:14:38 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 16:14:38 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 16:14:38 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 16:14:38 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 16:14:38 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:14:38 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 16:14:38 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 16:14:38 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 16:14:38 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 16:15:17 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 16:15:17 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 16:15:17 INFO  MentorJAXB:41 - Name: George
+2023-01-30 16:15:17 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 16:15:17 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 16:15:17 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 16:15:17 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 16:15:17 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 16:15:17 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 16:15:17 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 16:15:17 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 16:15:17 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 16:15:17 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 16:15:17 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:15:17 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 16:15:17 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 16:15:17 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 16:15:17 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 16:16:57 INFO  CourseJAXB:37 - Information about Course
+2023-01-30 16:16:57 INFO  CourseJAXB:38 - CourseId: 1
+2023-01-30 16:16:57 INFO  CourseJAXB:39 - Name: Math
+2023-01-30 16:16:57 INFO  CourseJAXB:40 - Course: 2
+2023-01-30 16:21:38 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 16:21:38 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 16:21:38 INFO  MentorJAXB:41 - Name: George
+2023-01-30 16:21:38 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 16:21:38 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 16:21:38 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 16:21:38 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 16:21:38 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 16:21:38 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 16:21:38 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 16:21:38 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 16:21:38 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 16:21:38 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 16:21:38 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:21:38 INFO  CourseJAXB:37 - Information about Course
+2023-01-30 16:21:38 INFO  CourseJAXB:38 - CourseId: 1
+2023-01-30 16:21:38 INFO  CourseJAXB:39 - Name: Math
+2023-01-30 16:21:38 INFO  CourseJAXB:40 - Course: 2
+2023-01-30 16:21:38 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 16:21:38 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 16:21:38 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 16:21:38 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 16:23:58 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 16:23:58 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 16:23:58 INFO  MentorJAXB:41 - Name: George
+2023-01-30 16:23:58 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 16:23:58 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 16:23:58 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 16:23:58 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 16:23:58 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 16:23:58 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 16:23:58 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 16:23:58 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 16:23:58 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 16:23:58 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 16:23:58 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 16:23:58 INFO  CourseJAXB:37 - Information about Course
+2023-01-30 16:23:58 INFO  CourseJAXB:38 - CourseId: 1
+2023-01-30 16:23:58 INFO  CourseJAXB:39 - Name: Math
+2023-01-30 16:23:58 INFO  CourseJAXB:40 - Course: 2
+2023-01-30 16:23:58 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 16:23:58 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 16:23:58 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 16:23:58 INFO  AuditoryJAXB:37 - Capacity: 100
