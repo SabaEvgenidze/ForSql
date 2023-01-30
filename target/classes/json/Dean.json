@@ -1,0 +1,9 @@
+{
+  "Dean": {
+    "idDean": 1,
+    "idMentor": 2,
+    "Name": "Stiles",
+    "Surname": "Stilinski",
+    "Gender": "Male"
+  }
+}

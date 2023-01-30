@@ -1,0 +1,14 @@
+{
+  "Course": [
+    {
+      "idCourse": 1,
+      "Name": "Math",
+      "Course": 1
+    },
+    {
+      "idCourse": 2,
+      "Name": "Computer Science",
+      "Course": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Mentor": {
+    "idMentor": 1,
+    "idUniversity": 1,
+    "Name": "George",
+    "Surname": "Muller",
+    "Age": 39,
+    "Gender": "Male"
+  },
+  "Student": [
+    {
+      "idStudent": 2,
+      "idUniversity": 1,
+      "idFaculty": 2,
+      "Name": "Elene",
+      "Surname": "Pose",
+      "Age": 20,
+      "Gender": "Female"
+    },
+    {
+      "idStudent": 3,
+      "idUniversity": 1,
+      "idFaculty": 2,
+      "Name": "Ezekiel",
+      "Surname": "Travolta",
+      "Age": 19,
+      "Gender": "Male"
+    }
+  ],
+  "Staff": {
+    "idStaff": 1,
+    "idUniversity": 1,
+    "Name": "Jackson",
+    "Surname": "McCall",
+    "Gender": "Male"
+  },
+  "StudentHasMentor": {
+    "idStudent": 1,
+    "idMentor": 1
+  }
+}

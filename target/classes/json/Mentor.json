@@ -1,0 +1,20 @@
+{
+  "Mentor": [
+    {
+      "idMentor": 1,
+      "idUniversity": 1,
+      "Name": "George",
+      "Surname": "Muller",
+      "Age": 39,
+      "Gender": "Male"
+    },
+    {
+      "idMentor": 2,
+      "idUniversity": 1,
+      "Name": "Lydia",
+      "Surname": "Martin",
+      "Age": 30,
+      "Gender": "Female"
+    }
+  ]
+}
