@@ -1359,3 +1359,15 @@
 2023-01-30 23:45:19 INFO  Jason:42 - Name: Lydia
 2023-01-30 23:45:19 INFO  Jason:43 - Surname: Martin
 2023-01-30 23:45:19 INFO  Jason:45 - GenderFemale
+2023-01-30 23:50:48 INFO  Json:38 - Information About Mentor is  0
+2023-01-30 23:50:48 INFO  Json:40 - idMentor: 1
+2023-01-30 23:50:48 INFO  Json:41 - idUniversity: 1
+2023-01-30 23:50:48 INFO  Json:42 - Name: George
+2023-01-30 23:50:48 INFO  Json:43 - Surname: Muller
+2023-01-30 23:50:48 INFO  Json:45 - GenderMale
+2023-01-30 23:50:48 INFO  Json:38 - Information About Mentor is  1
+2023-01-30 23:50:48 INFO  Json:40 - idMentor: 2
+2023-01-30 23:50:48 INFO  Json:41 - idUniversity: 1
+2023-01-30 23:50:48 INFO  Json:42 - Name: Lydia
+2023-01-30 23:50:48 INFO  Json:43 - Surname: Martin
+2023-01-30 23:50:48 INFO  Json:45 - GenderFemale
