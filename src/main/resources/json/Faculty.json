@@ -1,0 +1,8 @@
+{
+  "Faculty": {
+    "idFaculty": 1,
+    "idCourse": 1,
+    "idDean": 1,
+    "Name": "Faculty of Exact Sciences"
+  }
+}

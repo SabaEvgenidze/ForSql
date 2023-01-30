@@ -1,0 +1,18 @@
+{
+  "Staff": [
+    {
+      "idStaff": 1,
+      "idUniversity": 1,
+      "Name": "Jackson",
+      "Surname": "McCall",
+      "Gender": "Male"
+    },
+    {
+      "idStaff": 2,
+      "idUniversity": 1,
+      "Name": "Skyler",
+      "Surname": "Walker",
+      "Gender": "Male"
+    }
+  ]
+}
