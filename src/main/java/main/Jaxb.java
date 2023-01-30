@@ -6,8 +6,8 @@ import jaxb.MentorJAXB;
 import jaxb.StudentJAXB;
 import org.apache.log4j.Logger;
 
-public class Main {
-    private static final Logger LOGGER = Logger.getLogger(Main.class);
+public class Jaxb {
+    private static final Logger LOGGER = Logger.getLogger(Jaxb.class);
 
     public static void main(String[] argv) {
 

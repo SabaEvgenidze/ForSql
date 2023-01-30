@@ -1307,3 +1307,43 @@
 2023-01-30 16:23:58 INFO  AuditoryJAXB:35 - AuditoryId: 1
 2023-01-30 16:23:58 INFO  AuditoryJAXB:36 - UniversityId: 1
 2023-01-30 16:23:58 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 23:14:41 INFO  MentorJAXB:39 - info about mentor
+2023-01-30 23:14:41 INFO  MentorJAXB:40 - MentorId: 1
+2023-01-30 23:14:41 INFO  MentorJAXB:41 - Name: George
+2023-01-30 23:14:41 INFO  MentorJAXB:42 - Surname: Jackson
+2023-01-30 23:14:41 INFO  MentorJAXB:43 - Age: 22
+2023-01-30 23:14:41 INFO  MentorJAXB:44 - Gender: male
+2023-01-30 23:14:41 INFO  StudentJAXB:34 - Information abut Student: 
+2023-01-30 23:14:41 INFO  StudentJAXB:35 - StudentId: 1
+2023-01-30 23:14:41 INFO  StudentJAXB:36 - UniversityId: 2
+2023-01-30 23:14:41 INFO  StudentJAXB:37 - FacultyId: 3
+2023-01-30 23:14:41 INFO  StudentJAXB:38 - Name: Saba
+2023-01-30 23:14:41 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-01-30 23:14:41 INFO  StudentJAXB:40 - Gender: Male
+2023-01-30 23:14:41 INFO  StudentJAXB:41 - Age: 22
+2023-01-30 23:14:41 INFO  CourseJAXB:37 - Information about Course
+2023-01-30 23:14:41 INFO  CourseJAXB:38 - CourseId: 1
+2023-01-30 23:14:41 INFO  CourseJAXB:39 - Name: Math
+2023-01-30 23:14:41 INFO  CourseJAXB:40 - Course: 2
+2023-01-30 23:14:41 INFO  AuditoryJAXB:34 - information about Auditory
+2023-01-30 23:14:41 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-01-30 23:14:41 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-01-30 23:14:41 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-01-30 23:40:00 INFO  Jason:38 - Information About Mentor is  0
+2023-01-30 23:40:00 INFO  Jason:40 - idMentor: 1
+2023-01-30 23:40:00 INFO  Jason:42 - NameMath
+2023-01-30 23:40:00 INFO  Jason:38 - Information About Mentor is  1
+2023-01-30 23:40:00 INFO  Jason:40 - idMentor: 2
+2023-01-30 23:40:00 INFO  Jason:42 - NameComputer Science
+2023-01-30 23:41:03 INFO  Jason:38 - Information About Mentor is  0
+2023-01-30 23:41:03 INFO  Jason:40 - idMentor: 1
+2023-01-30 23:41:03 INFO  Jason:41 - idUniversity: 1
+2023-01-30 23:41:03 INFO  Jason:42 - NameGeorge
+2023-01-30 23:41:03 INFO  Jason:43 - Surname: Muller
+2023-01-30 23:41:03 INFO  Jason:45 - GenderMale
+2023-01-30 23:41:03 INFO  Jason:38 - Information About Mentor is  1
+2023-01-30 23:41:03 INFO  Jason:40 - idMentor: 2
+2023-01-30 23:41:03 INFO  Jason:41 - idUniversity: 1
+2023-01-30 23:41:03 INFO  Jason:42 - NameLydia
+2023-01-30 23:41:03 INFO  Jason:43 - Surname: Martin
+2023-01-30 23:41:03 INFO  Jason:45 - GenderFemale
