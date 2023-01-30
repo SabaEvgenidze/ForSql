@@ -1,15 +1,17 @@
 package models;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Objects;
 
+@XmlRootElement
 public class Student {
     private Long idStudent;
     private Long idUniversity;
     private Long idFaculty;
-    private String name;
-    private String surname;
-    private String gender;
-    private int age;
+    private String Name;
+    private String Surname;
+    private String Gender;
+    private int Age;
 
     public Long getIdStudent() {
         return idStudent;
@@ -36,48 +38,60 @@ public class Student {
     }
 
     public String getName() {
-        return name;
+        return Name;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String Name) {
+        this.Name = Name;
     }
 
     public String getSurname() {
-        return surname;
+        return Surname;
     }
 
     public void setSurname(String surname) {
-        this.surname = surname;
+        this.Surname = surname;
     }
 
     public String getGender() {
-        return gender;
+        return Gender;
     }
 
     public void setGender(String gender) {
-        this.gender = gender;
+        this.Gender = gender;
     }
 
     public int getAge() {
-        return age;
+        return Age;
     }
 
     public void setAge(int age) {
-        this.age = age;
+        this.Age = age;
     }
 
-    @Override
+    public Student() {
+    }
+
+    public Student(Long idStudent, Long idUniversity, Long idFaculty, String name, String surname, String gender, int age) {
+        this.idFaculty = idFaculty;
+        this.idUniversity = idUniversity;
+        this.idStudent = idStudent;
+        this.Name = name;
+        this.Surname = surname;
+        this.Gender = gender;
+        this.Age = age;
+    }
+
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Student student = (Student) o;
-        return age == student.age && idStudent.equals(student.idStudent) && idUniversity.equals(student.idUniversity) && idFaculty.equals(student.idFaculty) && name.equals(student.name) && surname.equals(student.surname) && gender.equals(student.gender);
+        return Age == student.Age && idStudent.equals(student.idStudent) && idUniversity.equals(student.idUniversity) && idFaculty.equals(student.idFaculty) && Name.equals(student.Name) && Surname.equals(student.Surname) && Gender.equals(student.Gender);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(idStudent, idUniversity, idFaculty, name, surname, gender, age);
+        return Objects.hash(idStudent, idUniversity, idFaculty, Name, Surname, Gender, Age);
     }
 
     @Override
@@ -86,10 +100,10 @@ public class Student {
                 "idStudent=" + idStudent +
                 ", idUniversity=" + idUniversity +
                 ", idFaculty=" + idFaculty +
-                ", name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", gender='" + gender + '\'' +
-                ", age=" + age +
+                ", name='" + Name + '\'' +
+                ", surname='" + Surname + '\'' +
+                ", gender='" + Gender + '\'' +
+                ", age=" + Age +
                 '}';
     }
 }

@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Owe {
     private Long idOwe;
     private Long idStudent;
-    private int amountOfOwe;
+    private int AmountOfOwe;
 
     public Long getIdOwe() {
         return idOwe;
@@ -24,11 +24,11 @@ public class Owe {
     }
 
     public int getAmountOfOwe() {
-        return amountOfOwe;
+        return AmountOfOwe;
     }
 
     public void setAmountOfOwe(int amountOfOwe) {
-        this.amountOfOwe = amountOfOwe;
+        this.AmountOfOwe = amountOfOwe;
     }
 
     @Override
@@ -36,12 +36,12 @@ public class Owe {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Owe owe = (Owe) o;
-        return amountOfOwe == owe.amountOfOwe && idOwe.equals(owe.idOwe) && idStudent.equals(owe.idStudent);
+        return AmountOfOwe == owe.AmountOfOwe && idOwe.equals(owe.idOwe) && idStudent.equals(owe.idStudent);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(idOwe, idStudent, amountOfOwe);
+        return Objects.hash(idOwe, idStudent, AmountOfOwe);
     }
 
     @Override
@@ -49,7 +49,7 @@ public class Owe {
         return "Owe{" +
                 "idOwe=" + idOwe +
                 ", idStudent=" + idStudent +
-                ", amountOfOwe=" + amountOfOwe +
+                ", amountOfOwe=" + AmountOfOwe +
                 '}';
     }
 }

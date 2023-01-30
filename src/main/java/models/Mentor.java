@@ -1,14 +1,16 @@
 package models;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Objects;
 
+@XmlRootElement
 public class Mentor {
     private Long idMentor;
     private Long idUniversity;
-    private String name;
-    private String surname;
-    private String gender;
-    private int age;
+    private String Name;
+    private String Surname;
+    private String Gender;
+    private int Age;
 
     public Long getIdMentor() {
         return idMentor;
@@ -27,35 +29,45 @@ public class Mentor {
     }
 
     public String getName() {
-        return name;
+        return Name;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.Name = name;
     }
 
     public String getSurname() {
-        return surname;
+        return Surname;
     }
 
     public void setSurname(String surname) {
-        this.surname = surname;
+        this.Surname = surname;
     }
 
     public String getGender() {
-        return gender;
+        return Gender;
     }
 
     public void setGender(String gender) {
-        this.gender = gender;
+        this.Gender = gender;
     }
 
     public int getAge() {
-        return age;
+        return Age;
     }
 
     public void setAge(int age) {
-        this.age = age;
+        this.Age = age;
+    }
+
+    public Mentor(){}
+    public Mentor (Long idMentor, Long idUniversity, String name, String surname, String gender, int age){
+        this.idMentor=idMentor;
+        this.idUniversity=idUniversity;
+        this.Name=name;
+        this.Surname=surname;
+        this.Gender=gender;
+        this.Age=age;
     }
 
     @Override
@@ -63,12 +75,12 @@ public class Mentor {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Mentor mentor = (Mentor) o;
-        return age == mentor.age && idMentor.equals(mentor.idMentor) && idUniversity.equals(mentor.idUniversity) && name.equals(mentor.name) && surname.equals(mentor.surname) && gender.equals(mentor.gender);
+        return Age == mentor.Age && idMentor.equals(mentor.idMentor) && idUniversity.equals(mentor.idUniversity) && Name.equals(mentor.Name) && Surname.equals(mentor.Surname) && Gender.equals(mentor.Gender);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(idMentor, idUniversity, name, surname, gender, age);
+        return Objects.hash(idMentor, idUniversity, Name, Surname, Gender, Age);
     }
 
     @Override
@@ -76,10 +88,10 @@ public class Mentor {
         return "Mentor{" +
                 "idMentor=" + idMentor +
                 ", idUniversity=" + idUniversity +
-                ", name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", gender='" + gender + '\'' +
-                ", age=" + age +
+                ", name='" + Name + '\'' +
+                ", surname='" + Surname + '\'' +
+                ", gender='" + Gender + '\'' +
+                ", age=" + Age +
                 '}';
     }
 }

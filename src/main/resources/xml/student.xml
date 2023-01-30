@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Student>
     <Student idStundent="1">
-        <Name>Sam</Name>
+        <Name value="SAma">Sam</Name>
         <Surname>Smith</Surname>
         <Age>22</Age>
         <Gender>male</Gender>

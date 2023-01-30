@@ -1,11 +1,13 @@
 package models;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Objects;
 
+@XmlRootElement
 public class Auditory {
     private Long idAuditory;
     private Long idUniversity;
-    private int capacity;
+    private int Capacity;
 
     public Long getIdAuditory() {
         return idAuditory;
@@ -24,11 +26,20 @@ public class Auditory {
     }
 
     public int getCapacity() {
-        return capacity;
+        return Capacity;
     }
 
     public void setCapacity(int capacity) {
-        this.capacity = capacity;
+        this.Capacity = capacity;
+    }
+
+    public Auditory() {
+    }
+
+    public Auditory(Long idUniversity, Long idAuditory, int capacity) {
+        this.idAuditory = idAuditory;
+        this.idUniversity = idUniversity;
+        this.Capacity = capacity;
     }
 
     @Override
@@ -36,12 +47,12 @@ public class Auditory {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Auditory auditory = (Auditory) o;
-        return capacity == auditory.capacity && idAuditory.equals(auditory.idAuditory) && idUniversity.equals(auditory.idUniversity);
+        return Capacity == auditory.Capacity && idAuditory.equals(auditory.idAuditory) && idUniversity.equals(auditory.idUniversity);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(idAuditory, idUniversity, capacity);
+        return Objects.hash(idAuditory, idUniversity, Capacity);
     }
 
     @Override
@@ -49,7 +60,7 @@ public class Auditory {
         return "Auditory{" +
                 "idAuditory=" + idAuditory +
                 ", idUniversity=" + idUniversity +
-                ", capacity=" + capacity +
+                ", capacity=" + Capacity +
                 '}';
     }
 }

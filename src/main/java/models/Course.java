@@ -1,11 +1,13 @@
 package models;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Objects;
 
+@XmlRootElement
 public class Course {
     private Long idCourse;
-    private String name;
-    private int course;
+    private String Name;
+    private int Course;
 
     public Long getIdCourse() {
         return idCourse;
@@ -16,19 +18,28 @@ public class Course {
     }
 
     public String getName() {
-        return name;
+        return Name;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.Name = name;
     }
 
     public int getCourse() {
-        return course;
+        return Course;
     }
 
     public void setCourse(int course) {
-        this.course = course;
+        this.Course = course;
+    }
+
+    public Course() {
+    }
+
+    public Course(Long idCourse, String name, int course) {
+        this.idCourse = idCourse;
+        this.Name = name;
+        this.Course = course;
     }
 
     @Override
@@ -36,20 +47,20 @@ public class Course {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Course course1 = (Course) o;
-        return course == course1.course && idCourse.equals(course1.idCourse) && name.equals(course1.name);
+        return Course == course1.Course && idCourse.equals(course1.idCourse) && Name.equals(course1.Name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(idCourse, name, course);
+        return Objects.hash(idCourse, Name, Course);
     }
 
     @Override
     public String toString() {
         return "Course{" +
                 "idCourse=" + idCourse +
-                ", name='" + name + '\'' +
-                ", course=" + course +
+                ", name='" + Name + '\'' +
+                ", course=" + Course +
                 '}';
     }
 }

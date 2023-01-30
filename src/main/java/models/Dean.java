@@ -5,9 +5,9 @@ import java.util.Objects;
 public class Dean {
     private Long IdDean;
     private Long idMentor;
-    private String name;
-    private String surname;
-    private String gender;
+    private String Name;
+    private String Surname;
+    private String Gender;
 
     public Long getIdDean() {
         return IdDean;
@@ -26,27 +26,27 @@ public class Dean {
     }
 
     public String getName() {
-        return name;
+        return Name;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.Name = name;
     }
 
     public String getSurname() {
-        return surname;
+        return Surname;
     }
 
     public void setSurname(String surname) {
-        this.surname = surname;
+        this.Surname = surname;
     }
 
     public String getGender() {
-        return gender;
+        return Gender;
     }
 
     public void setGender(String gender) {
-        this.gender = gender;
+        this.Gender = gender;
     }
 
     @Override
@@ -54,12 +54,12 @@ public class Dean {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Dean dean = (Dean) o;
-        return IdDean.equals(dean.IdDean) && idMentor.equals(dean.idMentor) && name.equals(dean.name) && surname.equals(dean.surname) && gender.equals(dean.gender);
+        return IdDean.equals(dean.IdDean) && idMentor.equals(dean.idMentor) && Name.equals(dean.Name) && Surname.equals(dean.Surname) && Gender.equals(dean.Gender);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(IdDean, idMentor, name, surname, gender);
+        return Objects.hash(IdDean, idMentor, Name, Surname, Gender);
     }
 
     @Override
@@ -67,9 +67,9 @@ public class Dean {
         return "Dean{" +
                 "IdDean=" + IdDean +
                 ", idMentor=" + idMentor +
-                ", name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
-                ", gender='" + gender + '\'' +
+                ", name='" + Name + '\'' +
+                ", surname='" + Surname + '\'' +
+                ", gender='" + Gender + '\'' +
                 '}';
     }
 }

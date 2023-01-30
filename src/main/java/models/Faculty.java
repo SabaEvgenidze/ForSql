@@ -6,7 +6,7 @@ public class Faculty {
     private Long idFaculty;
     private Long idCourse;
     private Long idDean;
-    private String name;
+    private String Name;
 
     public Long getIdFaculty() {
         return idFaculty;
@@ -33,11 +33,11 @@ public class Faculty {
     }
 
     public String getName() {
-        return name;
+        return Name;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.Name = name;
     }
 
     @Override
@@ -45,12 +45,12 @@ public class Faculty {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Faculty faculty = (Faculty) o;
-        return idFaculty.equals(faculty.idFaculty) && idCourse.equals(faculty.idCourse) && idDean.equals(faculty.idDean) && name.equals(faculty.name);
+        return idFaculty.equals(faculty.idFaculty) && idCourse.equals(faculty.idCourse) && idDean.equals(faculty.idDean) && Name.equals(faculty.Name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(idFaculty, idCourse, idDean, name);
+        return Objects.hash(idFaculty, idCourse, idDean, Name);
     }
 
     @Override
@@ -59,7 +59,7 @@ public class Faculty {
                 "idFaculty=" + idFaculty +
                 ", idCourse=" + idCourse +
                 ", idDean=" + idDean +
-                ", name='" + name + '\'' +
+                ", name='" + Name + '\'' +
                 '}';
     }
 }
