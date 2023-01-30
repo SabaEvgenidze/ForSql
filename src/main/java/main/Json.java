@@ -11,7 +11,8 @@ import java.io.IOException;
 
 public class Json {
     private static final Logger LOGGER = Logger.getLogger(Json.class);
-    public static void main(String [] argv){
+
+    public static void main(String[] argv) {
 
         try {
             FileReader reader = new FileReader("C:\\Java\\ForSql\\src\\main\\resources\\json\\Mentor.json");
@@ -22,9 +23,9 @@ public class Json {
 
             JSONObject jsonObject = (JSONObject) obj;
 
-            JSONArray array = (JSONArray)jsonObject.get("Mentor");
+            JSONArray array = (JSONArray) jsonObject.get("Mentor");
 
-            for (int i=0; i<array.size(); i++){
+            for (int i = 0; i < array.size(); i++) {
 
                 JSONObject mentor = (JSONObject) array.get(i);
 
@@ -44,8 +45,7 @@ public class Json {
 //                LOGGER.info("Age: " + Age);
                 LOGGER.info("Gender" + Gender);
             }
-
-        } catch (ParseException e){
+        } catch (ParseException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
