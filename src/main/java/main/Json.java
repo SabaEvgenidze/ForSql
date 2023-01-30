@@ -9,8 +9,8 @@ import org.json.simple.parser.ParseException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Jason {
-    private static final Logger LOGGER = Logger.getLogger(Jason.class);
+public class Json {
+    private static final Logger LOGGER = Logger.getLogger(Json.class);
     public static void main(String [] argv){
 
         try {
