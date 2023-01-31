@@ -1,6 +1,6 @@
 package dao.jdbc;
 
-import connection.ConnectionPool;
+import utils.ConnectionPool;
 import dao.IStaffDao;
 import models.Staff;
 

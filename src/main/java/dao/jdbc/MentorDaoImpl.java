@@ -1,6 +1,6 @@
 package dao.jdbc;
 
-import connection.ConnectionPool;
+import utils.ConnectionPool;
 import dao.IMentorDao;
 import models.Mentor;
 import org.apache.log4j.Logger;
