@@ -1,0 +1,29 @@
+<mapper namspace="dao.IOweDao">
+    <resutMap id="resultMap7" type="models.Owe" autoMapper="false">
+        <id column="idOwe" property="idOwe"/>
+        <result column="idStudent" property="idStudent"/>
+    </resutMap>
+    <sql id="owe">
+        o.idOwe as idOwe,
+        o.idStudent as idStudent,
+        o.AmountOfOwe as Owe
+    </sql>
+    <select id="selectEntityByEntity" resulType="oweResultMap" resultMap="resultMap7">
+        SELECT
+        <include idref="owe"/>
+        FROM Owe
+        WHERE idOwe=#{id}
+    </select>
+    <insert id="insertEntity">
+        INSERT INTO Owe()
+        VALUES (#{idOwe}, #{idStudent}, #{AmountOfOwe})
+    </insert>
+    <delete id="deleteEntity">
+        DELETE FROM Owe
+        WHERE idOwe = #{idOwe}
+    </delete>
+    <update id="updateEntity">
+        UPDATE Owe SET idOwe=#{idOWe}, idStudent=#{idStudent}
+        WHERE idOwe = #{idOwe}
+    </update>
+</mapper>

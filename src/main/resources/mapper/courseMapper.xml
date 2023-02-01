@@ -1,0 +1,20 @@
+<mapper username="dao.ICourseDao">
+    <resultMap id="resultMap3" type="models.Course" autoMapper="false">
+        <id coulumn="idCourse" property="idCourse"/>
+    </resultMap>
+
+    <select id="selectEntityById" resultType="courseResultMap" resultMap="resultMap3">
+        SELECT * FROM Course WHERE idCourse = #{id}
+    </select>
+    <insert id="insertEntity">
+        INSERT INTO Course ()
+        VALUES (#{idCourse,} #{Name}, #{Course})
+    </insert>
+    <delete>
+        DELETE FROM Course WHERE idCourse=#{idCourse}
+    </delete>
+    <update id="updateEntity">
+        UPDATE Course SET idCourse = #{idCourse}
+        WHERE idCourse = #{idCourse}
+    </update>
+</mapper>

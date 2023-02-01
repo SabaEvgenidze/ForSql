@@ -1,0 +1,27 @@
+<mapper namespace="dao.IStudentHasMentorDao">
+    <resultMap id="resultMap10" type="models.StudentHasMentor" autoMappe="false">
+        <id column="idStudent" property="idStudent"/>
+        <id column="idMentor" property="idMentor"/>
+    </resultMap>
+    <sql id="combine">
+        c.idStudent as idStudent,
+        c.idMentor as idMentor
+    </sql>
+    <select id="selectEntityById">
+        SELECT
+        <include idref="combine"/>
+        FROM StudentHasMentor
+        WHERE IdStudent=#{id}
+    </select>
+    <insert id="insertEntity">
+        INSERT INTO StudentHasMentor()
+        VALUES (#{idStudent}, #{idMentor})
+    </insert>
+    <delete id="deleteEntity">
+        DELETE FROM StudentHasMentor WHERE idStudent = #{idStudent}
+    </delete>
+    <update id="updateEntity">
+        UPDATE StudentHasMentor SET idStudent=#{idStudent}, idMentor=#{idMentor}
+        WHERE idStudent=#{idStudent}
+    </update>
+</mapper>

@@ -1,0 +1,34 @@
+<mapper namespace="dao.IStudentDao">
+    <resultMap  id="resultMap9" type="models.Student" autoMapper="false">
+        <id coulumn="idStudent" property="idStudent"/>
+        <result column="idUniversity" property="idUniversity"/>
+        <result column="idFaculty" property="idFaculty"/>
+    </resultMap>
+    <sql id="student">
+        s.idStudent as idStudent,
+        s.idUniversity as idUniversity,
+        s.idFaculty as idFaculty,
+        s.Name as Name,
+        s.Surname as Surname,
+        s.Gender as Gender,
+        s.Age as Age
+    </sql>
+
+    <select id="selectEntityById" resultType="studentResultMap" resultMap="resultMap9">
+        SELECT
+        <include idref="student"/>
+        FROM STUDENT
+        WHERE idStudent = #{id}
+    </select>
+    <insert id="insertEntity">
+        INSERT INTO Student()
+        VALUES(#{idStudent}, #{idUniversity}, #{idFaculty}, #{Name}, #{Surname}, #{Gender}, #{Age})
+    </insert>
+    <delete id="deleteEntity">
+        DELETE FROM Student WHERE idStudent = #{idStudent}
+    </delete>
+    <update id="update Entity">
+        UPDATE Student SET idStudent = #{idStudent}, idUniversity = #{idUniversity}, idFaculty = #{idFaculty}
+        WHERE idStudent=#{idStudent}
+    </update>
+</mapper>

@@ -1,0 +1,21 @@
+<mapper namespace="dao.IUniversityDao">
+    <resultMap id="resultMap1" type="models.University" autoMapping="false">
+        <id column="idUniversity" property="idUniversity" />
+    </resultMap>
+    <select id="selectEntityById" resultType="UniversityResultMap" resultMap="resultMap1">
+        SELECT u.idUniversity as idUniversity, u.Name as Name, u.Location as Location FROM University u
+        WHERE idUniversity = # {id}
+    </select>
+    <insert id="insertEntity">
+        INSET INTO University()
+        VALUES (#{idUniversity}, #{Name}, #{Location})
+    </insert>
+    <delete id="deleteEntity">
+        DELETE FROM University
+        WHERE idUniversity = #{id}
+    </delete>
+    <update id="updateEntity">
+        UPDATE University SET idUniversity = #{idUniversity}
+        WHERE idUniversity = #{idUniversity}
+    </update>
+</mapper>

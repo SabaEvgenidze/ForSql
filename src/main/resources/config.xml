@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <properties resource="database.properties"/>
+    <enviroments default="development">
+        <enviroment id="development">
+            <transactionmanager id="JDBC">
+                <properties name="readOnlyDefault" value="false"/>
+            </transactionmanager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${db.driver}"/>
+                <property name="url" value="${db.url}"/>
+                <property name="username" value="${db.user}"/>
+                <property name="password" value="${db.password}"/>
+            </dataSource>
+        </enviroment>
+    </enviroments>
+    <mapper>
+
+    </mapper>
+</configuration>

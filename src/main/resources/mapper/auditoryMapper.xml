@@ -1,0 +1,21 @@
+<mapper namesapce="dao.IAuditoryDao">
+    <resultMap id="resultMap2" type="models.Auditory" autoMapper="false">
+        <id column="idAuditory" property="idAuditory"/>
+    </resultMap>
+    <select id="selectEntityById" resultType="auditoryResultMap" resultMap="resultMap2">
+        SELECT a.idAuditory, a.idUniversity, a.Capacity FROM Auditory a
+        WHERE idAuditory = # {id}
+    </select>
+    <insert id="insertEntity">
+        INSERT INTO Auditory()
+        VALUES( #{idAuditory}, #{idUniversity}, #{Capacity})
+    </insert>
+    <delete id="deleteEntity">
+        DELETE FROM Auditory
+        WHERE idAuditory = #{id}
+    </delete>
+    <update id="updateEntity">
+        UPDATE Auditory SET idAuditory = #{idAuditory}, idUniversity = #{idUniversity}
+        WHERE idAuditory = #{idAuditory}
+    </update>
+</mapper>
