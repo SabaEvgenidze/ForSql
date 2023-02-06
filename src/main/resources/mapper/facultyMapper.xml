@@ -1,21 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="dao.IFacultyDao">
-    <resultMap id="resultMap5" type="models.Faculty" autoMapper="false">
+    <resultMap id="resultMap5" type="models.Faculty" autoMapping="false">
         <id column="idFaculty" property="idFaculty"/>
         <result column="idCourse" property="idCourse"/>
         <result column="idDean" property="idDean"/>
     </resultMap>
-    <select id="selectEntityById" resultType="facultyResultMap" resultMap="resultMap5">
-        SELECT * FROM Faculty WHERE idFaculty = #{id}
+    <select id="selectEntityById" resultType="facultyResultMap" resultMap="resultMap5">SELECT * FROM Faculty WHERE
+        idFaculty = #{id}
     </select>
-    <insert id="insertEntity">
-        INSERT INTO Faculty()
+    <insert id="insertEntity">INSERT INTO Faculty()
         VALUE (#{idFaculty}, #{idCourse}, #{idDean}, #{Name})
     </insert>
-    <delete id="deleteEntity">
-        DELETE FROM Faculty WHERE idFaculty = #{idFaculty}
-    </delete>
-    <update id="updateEntity">
-        UPDATE Faculty idFaculty=#{idFaculty}, idCourse=#{idCourse}, idDean=#{idDean}
+    <delete id="deleteEntity">DELETE FROM Faculty WHERE idFaculty = #{idFaculty}</delete>
+    <update id="updateEntity">UPDATE Faculty idFaculty=#{idFaculty}, idCourse=#{idCourse}, idDean=#{idDean}
         WHERE idFaculty = #{idFaculty}
     </update>
 </mapper>

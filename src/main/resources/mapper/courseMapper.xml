@@ -1,20 +1,17 @@
-<mapper username="dao.ICourseDao">
-    <resultMap id="resultMap3" type="models.Course" autoMapper="false">
-        <id coulumn="idCourse" property="idCourse"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dao.ICourseDao">
+    <resultMap id="resultMap3" type="models.Course" autoMapping="false">
+        <id column="idCourse" property="idCourse"/>
     </resultMap>
-
-    <select id="selectEntityById" resultType="courseResultMap" resultMap="resultMap3">
-        SELECT * FROM Course WHERE idCourse = #{id}
+    <select id="selectEntityById" resultType="courseResultMap" resultMap="resultMap3">SELECT * FROM Course WHERE
+        idCourse = #{id}
     </select>
-    <insert id="insertEntity">
-        INSERT INTO Course ()
+    <insert id="insertEntity">INSERT INTO Course ()
         VALUES (#{idCourse,} #{Name}, #{Course})
     </insert>
-    <delete>
-        DELETE FROM Course WHERE idCourse=#{idCourse}
-    </delete>
-    <update id="updateEntity">
-        UPDATE Course SET idCourse = #{idCourse}
+    <delete id="deleteEntity">DELETE FROM Course WHERE idCourse=#{idCourse}</delete>
+    <update id="updateEntity">UPDATE Course SET idCourse = #{idCourse}
         WHERE idCourse = #{idCourse}
     </update>
 </mapper>

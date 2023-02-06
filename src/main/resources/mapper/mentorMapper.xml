@@ -1,31 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="dao.IMentorDao">
-    <resultMap id="resultMap6" type="models.Mentor" autoMapper="false">
-        <id column="idMentor" propertie="idMentor"/>
-        <result column="idUniversity" propeties="idUniversity"/>
+    <resultMap id="resultMap6" type="models.Mentor" autoMapping="false">
+        <id column="idMentor" property="idMentor"/>
+        <result column="idUniversity" property="idUniversity"/>
     </resultMap>
-    <sql id="mentor">
-        m.idMentor as idMentor,
+    <sql id="mentor">m.idMentor as idMentor,
         m.idUniversity as idUniversity,
         m.Name as Name,
         m.Surname as Surname,
         m.Gender as Gender,
         m.Age as Age
     </sql>
-    <select id="selectEntityById" reultType="mentorResultMap" resultMap="resultMap6">
+    <select id="selectEntityById" resultType="mentorResultMap" resultMap="resultMap6">
         SELECT
         <include refid="mentor"/>
         FROM Mentor
         WHERE idMentor=#{id}
     </select>
-    <insert id="insertEntity">
-        INSERT INTO Mentor()
+    <insert id="insertEntity">INSERT INTO Mentor()
         VALUES(#{idMentor}, #{idUniversity}, #{Name} #{Surname}, #{Gender}, #{Age})
     </insert>
-    <delete id="deleteEntity">
-        DELETE FROM Mentor WHERE idMentor=#{idMentor}
-    </delete>
-    <update>
-        UPDATE Mentor SET idMentor=#{idMentor}, idUniversity=#{idUniversity}
+    <delete id="deleteEntity">DELETE FROM Mentor WHERE idMentor=#{idMentor}</delete>
+    <update id="updateEntity">UPDATE Mentor SET idMentor=#{idMentor}, idUniversity=#{idUniversity}
         WHERE idMentor=#{idMentor}
     </update>
 </mapper>

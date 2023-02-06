@@ -1,11 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="dao.IStudentDao">
-    <resultMap  id="resultMap9" type="models.Student" autoMapper="false">
-        <id coulumn="idStudent" property="idStudent"/>
+    <resultMap id="resultMap9" type="models.Student" autoMapping="false">
+        <id column="idStudent" property="idStudent"/>
         <result column="idUniversity" property="idUniversity"/>
         <result column="idFaculty" property="idFaculty"/>
     </resultMap>
-    <sql id="student">
-        s.idStudent as idStudent,
+    <sql id="student">s.idStudent as idStudent,
         s.idUniversity as idUniversity,
         s.idFaculty as idFaculty,
         s.Name as Name,
@@ -13,22 +14,18 @@
         s.Gender as Gender,
         s.Age as Age
     </sql>
-
     <select id="selectEntityById" resultType="studentResultMap" resultMap="resultMap9">
         SELECT
-        <include idref="student"/>
+        <include refid="student"/>
         FROM STUDENT
         WHERE idStudent = #{id}
     </select>
-    <insert id="insertEntity">
-        INSERT INTO Student()
+    <insert id="insertEntity">INSERT INTO Student()
         VALUES(#{idStudent}, #{idUniversity}, #{idFaculty}, #{Name}, #{Surname}, #{Gender}, #{Age})
     </insert>
-    <delete id="deleteEntity">
-        DELETE FROM Student WHERE idStudent = #{idStudent}
-    </delete>
-    <update id="update Entity">
-        UPDATE Student SET idStudent = #{idStudent}, idUniversity = #{idUniversity}, idFaculty = #{idFaculty}
+    <delete id="deleteEntity">DELETE FROM Student WHERE idStudent = #{idStudent}</delete>
+    <update id="update Entity">UPDATE Student SET idStudent = #{idStudent}, idUniversity = #{idUniversity}, idFaculty =
+        #{idFaculty}
         WHERE idStudent=#{idStudent}
     </update>
 </mapper>

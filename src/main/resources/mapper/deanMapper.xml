@@ -1,21 +1,20 @@
-<mapper>
-    <resultMap id="resultMap4" type="models.Dean" autoMapper="false">
-        <id colummn="idDean" property="idDean"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dao.IDeanDao">
+    <resultMap id="resultMap4" type="models.Dean" autoMapping="false">
+        <id column="idDean" property="idDean"/>
         <result column="idMentor" property="idMentor"/>
     </resultMap>
-    <select id="selectEntityById" resultType="mentorResultMap" resultMap="resultMap4">
-        SELECT * FROM Mentor WHERE idMentor = #{id}
+    <select id="selectEntityById" resultType="mentorResultMap" resultMap="resultMap4">SELECT * FROM Mentor WHERE
+        idMentor = #{id}
     </select>
-    <insert id="insertEntity">
-        INSERT INTO Dean()
+    <insert id="insertEntity">INSERT INTO Dean()
         VALUES(#{idDean},#{idMentor},#{Name},#{Surname},#{Age},#{Gender})
     </insert>
-    <delete id="deleteEntity">
-        DELETE FROM Dean
+    <delete id="deleteEntity">DELETE FROM Dean
         WHERE idDean=#{idDean}
     </delete>
-    <update id="updateEntity">
-        UPDATE Dean set idDean=#{idDean}, idMentor=#{idMentor}
+    <update id="updateEntity">UPDATE Dean set idDean=#{idDean}, idMentor=#{idMentor}
         WHERE idDean=#{idDean}
     </update>
 </mapper>

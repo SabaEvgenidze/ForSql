@@ -1,21 +1,20 @@
-<mapper namesapce="dao.IAuditoryDao">
-    <resultMap id="resultMap2" type="models.Auditory" autoMapper="false">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dao.IAuditoryDao">
+    <resultMap id="resultMap2" type="models.Auditory" autoMapping="false">
         <id column="idAuditory" property="idAuditory"/>
     </resultMap>
-    <select id="selectEntityById" resultType="auditoryResultMap" resultMap="resultMap2">
-        SELECT a.idAuditory, a.idUniversity, a.Capacity FROM Auditory a
+    <select id="selectEntityById" resultType="auditoryResultMap" resultMap="resultMap2">SELECT a.idAuditory,
+        a.idUniversity, a.Capacity FROM Auditory a
         WHERE idAuditory = # {id}
     </select>
-    <insert id="insertEntity">
-        INSERT INTO Auditory()
+    <insert id="insertEntity">INSERT INTO Auditory()
         VALUES( #{idAuditory}, #{idUniversity}, #{Capacity})
     </insert>
-    <delete id="deleteEntity">
-        DELETE FROM Auditory
+    <delete id="deleteEntity">DELETE FROM Auditory
         WHERE idAuditory = #{id}
     </delete>
-    <update id="updateEntity">
-        UPDATE Auditory SET idAuditory = #{idAuditory}, idUniversity = #{idUniversity}
+    <update id="updateEntity">UPDATE Auditory SET idAuditory = #{idAuditory}, idUniversity = #{idUniversity}
         WHERE idAuditory = #{idAuditory}
     </update>
 </mapper>

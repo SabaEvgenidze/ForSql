@@ -1,21 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="dao.IUniversityDao">
     <resultMap id="resultMap1" type="models.University" autoMapping="false">
-        <id column="idUniversity" property="idUniversity" />
+        <id column="idUniversity" property="idUniversity"/>
     </resultMap>
-    <select id="selectEntityById" resultType="UniversityResultMap" resultMap="resultMap1">
-        SELECT u.idUniversity as idUniversity, u.Name as Name, u.Location as Location FROM University u
+    <select id="selectEntityById" resultType="UniversityResultMap" resultMap="resultMap1">SELECT u.idUniversity as
+        idUniversity, u.Name as Name, u.Location as Location FROM University u
         WHERE idUniversity = # {id}
     </select>
-    <insert id="insertEntity">
-        INSET INTO University()
+    <insert id="insertEntity">INSET INTO University()
         VALUES (#{idUniversity}, #{Name}, #{Location})
     </insert>
-    <delete id="deleteEntity">
-        DELETE FROM University
+    <delete id="deleteEntity">DELETE FROM University
         WHERE idUniversity = #{id}
     </delete>
-    <update id="updateEntity">
-        UPDATE University SET idUniversity = #{idUniversity}
+    <update id="updateEntity">UPDATE University SET idUniversity = #{idUniversity}
         WHERE idUniversity = #{idUniversity}
     </update>
 </mapper>

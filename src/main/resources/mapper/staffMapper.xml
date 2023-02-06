@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dao.IStaffDao">
+    <resultMap id="resultMap8" type="models.Staff" autoMapping="false">
+        <id column="idStaff" property="idStaff"/>
+        <result column="idUniversity" property="idUniversity"/>
+    </resultMap>
+    <sql id="staff">s.idStaff as idStaff,
+        s.idUniversity as idUniversity,
+        s.Name as Name,
+        s.Surname as Surname,
+        s.Age as Age
+    </sql>
+    <select id="selectEntityById" resultType="staffResultMap" resultMap="resultMap8">
+        SELECT
+        <include refid="staff"/>
+        FROM Staff
+        WHERE idStaff=#{id}
+    </select>
+    <insert id="insertEntity">INSERT INTO Staff()
+        VALUES(#{idStaff},#{idUniversity},#{Name},#{Surname},#{Age})
+    </insert>
+    <delete id="deleteEntity">DELETE FROM Staff
+        WHERE idStaff = #{idStaff}
+    </delete>
+    <update id="updateEntity">UPDATE Staff SET idStaff = #{idStaff}, idUniversity = #{idUniversity}
+        WHERE idStaff = #{idStaff}
+    </update>
+</mapper>
