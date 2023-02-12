@@ -1,7 +1,5 @@
-package designpatterns;
+package designpatterns.factory;
 
-import designpatterns.abstractfactory.AbstractFactory;
-import designpatterns.abstractfactory.FactoryGenerator;
 import designpatterns.factory.action.IVoice;
 import designpatterns.factory.VoiceFactory;
 
@@ -16,12 +14,5 @@ public class Main {
 
         IVoice voice2 = voiceFactory.getVoice("Cat");
         voice2.voice();
-
-
-
-        //AbstractFactory pattern
-        AbstractFactory colorAbstractFactory = FactoryGenerator.getFactory("Color");
-
-
     }
 }

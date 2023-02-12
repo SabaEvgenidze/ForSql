@@ -4,7 +4,6 @@ import designpatterns.abstractfactory.action.Color;
 import designpatterns.abstractfactory.action.Voice;
 
 public class VoiceAbstractFactory extends AbstractFactory {
-
     @Override
     Voice getVoice(String voiceType) {
         if (voiceType == null){

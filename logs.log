@@ -1397,3 +1397,71 @@
 2023-02-05 23:58:21 INFO  Json:46 - GenderFemale
 2023-02-05 23:59:15 INFO  Dog:9 - Whoap Whoap
 2023-02-05 23:59:15 INFO  Cat:9 - Miau Miau!
+2023-02-06 20:06:26 INFO  Json:39 - Information About Mentor is  0
+2023-02-06 20:06:26 INFO  Json:41 - idMentor: 1
+2023-02-06 20:06:26 INFO  Json:42 - idUniversity: 1
+2023-02-06 20:06:26 INFO  Json:43 - Name: George
+2023-02-06 20:06:26 INFO  Json:44 - Surname: Muller
+2023-02-06 20:06:26 INFO  Json:46 - GenderMale
+2023-02-06 20:06:26 INFO  Json:39 - Information About Mentor is  1
+2023-02-06 20:06:26 INFO  Json:41 - idMentor: 2
+2023-02-06 20:06:26 INFO  Json:42 - idUniversity: 1
+2023-02-06 20:06:26 INFO  Json:43 - Name: Lydia
+2023-02-06 20:06:26 INFO  Json:44 - Surname: Martin
+2023-02-06 20:06:26 INFO  Json:46 - GenderFemale
+2023-02-06 20:06:43 INFO  MentorJAXB:39 - info about mentor
+2023-02-06 20:06:43 INFO  MentorJAXB:40 - MentorId: 1
+2023-02-06 20:06:43 INFO  MentorJAXB:41 - Name: George
+2023-02-06 20:06:43 INFO  MentorJAXB:42 - Surname: Jackson
+2023-02-06 20:06:43 INFO  MentorJAXB:43 - Age: 22
+2023-02-06 20:06:43 INFO  MentorJAXB:44 - Gender: male
+2023-02-06 20:06:43 INFO  StudentJAXB:34 - Information abut Student: 
+2023-02-06 20:06:43 INFO  StudentJAXB:35 - StudentId: 1
+2023-02-06 20:06:43 INFO  StudentJAXB:36 - UniversityId: 2
+2023-02-06 20:06:43 INFO  StudentJAXB:37 - FacultyId: 3
+2023-02-06 20:06:43 INFO  StudentJAXB:38 - Name: Saba
+2023-02-06 20:06:43 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-02-06 20:06:43 INFO  StudentJAXB:40 - Gender: Male
+2023-02-06 20:06:43 INFO  StudentJAXB:41 - Age: 22
+2023-02-06 20:06:43 INFO  CourseJAXB:37 - Information about Course
+2023-02-06 20:06:43 INFO  CourseJAXB:38 - CourseId: 1
+2023-02-06 20:06:43 INFO  CourseJAXB:39 - Name: Math
+2023-02-06 20:06:43 INFO  CourseJAXB:40 - Course: 2
+2023-02-06 20:06:43 INFO  AuditoryJAXB:34 - information about Auditory
+2023-02-06 20:06:43 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-02-06 20:06:43 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-02-06 20:06:43 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-02-12 22:02:48 INFO  MentorJAXB:39 - info about mentor
+2023-02-12 22:02:48 INFO  MentorJAXB:40 - MentorId: 1
+2023-02-12 22:02:48 INFO  MentorJAXB:41 - Name: George
+2023-02-12 22:02:48 INFO  MentorJAXB:42 - Surname: Jackson
+2023-02-12 22:02:49 INFO  MentorJAXB:43 - Age: 22
+2023-02-12 22:02:49 INFO  MentorJAXB:44 - Gender: male
+2023-02-12 22:02:49 INFO  StudentJAXB:34 - Information abut Student: 
+2023-02-12 22:02:49 INFO  StudentJAXB:35 - StudentId: 1
+2023-02-12 22:02:49 INFO  StudentJAXB:36 - UniversityId: 2
+2023-02-12 22:02:49 INFO  StudentJAXB:37 - FacultyId: 3
+2023-02-12 22:02:49 INFO  StudentJAXB:38 - Name: Saba
+2023-02-12 22:02:49 INFO  StudentJAXB:39 - Surname: Evgenidze
+2023-02-12 22:02:49 INFO  StudentJAXB:40 - Gender: Male
+2023-02-12 22:02:49 INFO  StudentJAXB:41 - Age: 22
+2023-02-12 22:02:49 INFO  CourseJAXB:37 - Information about Course
+2023-02-12 22:02:49 INFO  CourseJAXB:38 - CourseId: 1
+2023-02-12 22:02:49 INFO  CourseJAXB:39 - Name: Math
+2023-02-12 22:02:49 INFO  CourseJAXB:40 - Course: 2
+2023-02-12 22:02:49 INFO  AuditoryJAXB:34 - information about Auditory
+2023-02-12 22:02:49 INFO  AuditoryJAXB:35 - AuditoryId: 1
+2023-02-12 22:02:49 INFO  AuditoryJAXB:36 - UniversityId: 1
+2023-02-12 22:02:49 INFO  AuditoryJAXB:37 - Capacity: 100
+2023-02-12 22:10:13 INFO  Dog:10 - Whoap Whoap
+2023-02-12 22:12:10 INFO  MonkeyForAbstract:10 - Makaka :)
+2023-02-12 22:14:25 INFO  MonkeyForAbstract:10 - Makaka :)
+2023-02-12 22:14:25 INFO  CatForAbstract:11 - Miau Miau!
+2023-02-12 22:14:25 INFO  DogForAbstract:10 - Whoap Whoap!
+2023-02-12 22:15:25 INFO  MonkeyForAbstract:10 - Makaka :)
+2023-02-12 22:15:25 INFO  CatForAbstract:11 - Miau Miau!
+2023-02-12 22:15:25 INFO  DogForAbstract:10 - Whoap Whoap!
+2023-02-12 22:15:25 INFO  Black:11 - I choose black!
+2023-02-12 22:15:25 INFO  Brown:10 - I choose brown
+2023-02-12 22:18:50 INFO  Dog:10 - Whoap Whoap
+2023-02-12 22:18:51 INFO  Cat:10 - Miau Miau!
