@@ -84,14 +84,14 @@ public class DeanDaoImpl implements IDeanDao {
     }
 
     @Override
-    public void deleteEntity(Dean entity) throws SQLException {
+    public void deleteEntity(Dean id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM course WHERE idDean=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdDean());
+            preparedStatement.setLong(1, id.getIdDean());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

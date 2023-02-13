@@ -87,14 +87,14 @@ public class StaffDaoImpl implements IStaffDao {
     }
 
     @Override
-    public void deleteEntity(Staff entity) throws SQLException {
+    public void deleteEntity(Staff id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM course WHERE idStaff=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdStaff());
+            preparedStatement.setLong(1, id.getIdStaff());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

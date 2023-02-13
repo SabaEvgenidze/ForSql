@@ -79,14 +79,14 @@ public class AuditoryDaoImpl implements IAuditoryDao {
     }
 
     @Override
-    public void deleteEntity(Auditory entity) throws SQLException {
+    public void deleteEntity(Auditory id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM auditory WHERE idAuditory=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdAuditory());
+            preparedStatement.setLong(1, id.getIdAuditory());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

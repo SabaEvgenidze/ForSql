@@ -79,15 +79,15 @@ public class StudentHasMentorDaoImp implements IStudentHasMentorDao {
 
 
     @Override
-    public void deleteEntity(StudentHasMentor entity) throws SQLException {
+    public void deleteEntity(StudentHasMentor id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM course WHERE idStudent=?, idMentor=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdStudent());
-            preparedStatement.setLong(2, entity.getIdMentor());
+            preparedStatement.setLong(1, id.getIdStudent());
+            preparedStatement.setLong(2, id.getIdMentor());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

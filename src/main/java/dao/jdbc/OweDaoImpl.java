@@ -80,14 +80,14 @@ public class OweDaoImpl implements IOweDao {
     }
 
     @Override
-    public void deleteEntity(Owe entity) throws SQLException {
+    public void deleteEntity(Owe id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM course WHERE idOwe=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdOwe());
+            preparedStatement.setLong(1, id.getIdOwe());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

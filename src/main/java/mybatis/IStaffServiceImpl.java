@@ -1,4 +1,4 @@
-package service.impl;
+package mybatis;
 
 public class IStaffServiceImpl {
 }

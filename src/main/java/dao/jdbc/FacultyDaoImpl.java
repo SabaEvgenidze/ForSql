@@ -82,14 +82,14 @@ public class FacultyDaoImpl implements IFacultyDao {
     }
 
     @Override
-    public void deleteEntity(Faculty entity) throws SQLException {
+    public void deleteEntity(Faculty id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM course WHERE idFaculty=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdFaculty());
+            preparedStatement.setLong(1, id.getIdFaculty());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

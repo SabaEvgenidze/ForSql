@@ -77,14 +77,14 @@ public class UniversityDaoImp implements IUniversityDao {
         return university;
     }
 
-    public void deleteEntity(University entity) throws SQLException {
+    public void deleteEntity(University id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         PreparedStatement preparedStatement = null;
         String sql = "DELETE FROM University WHERE idUniversity=? ";
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdUniversity());
+            preparedStatement.setLong(1, id.getIdUniversity());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

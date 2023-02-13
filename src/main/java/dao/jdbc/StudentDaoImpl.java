@@ -87,14 +87,14 @@ public class StudentDaoImpl implements IStudentDao {
     }
 
     @Override
-    public void deleteEntity(Student entity) throws SQLException {
+    public void deleteEntity(Student id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         PreparedStatement preparedStatement = null;
         String sql = "DELETE FROM student where id=?";
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdStudent());
+            preparedStatement.setLong(1, id.getIdStudent());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

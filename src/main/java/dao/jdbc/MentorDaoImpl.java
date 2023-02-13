@@ -86,14 +86,14 @@ public class MentorDaoImpl implements IMentorDao {
     }
 
     @Override
-    public void deleteEntity(Mentor entity) throws SQLException {
+    public void deleteEntity(Mentor id) throws SQLException {
         Connection connection = connectionPool.retrieve();
         String sql = "DELETE FROM course WHERE idMentor=?";
         PreparedStatement preparedStatement = null;
 
         try {
             preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setLong(1, entity.getIdMentor());
+            preparedStatement.setLong(1, id.getIdMentor());
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
